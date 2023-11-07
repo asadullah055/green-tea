@@ -11,7 +11,7 @@ function ServicesApi() {
       setServices(data.products);
     })();
   }, []);
-  console.log(services);
+
   return (
     <div className="max-w-6xl mx-auto my-8">
       <Services services={services} />
