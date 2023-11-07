@@ -1,9 +1,9 @@
-import ProjectFrom from "../component/Project/ProjectFrom";
+import ProjectRoot from "../component/Project/ProjectRoot";
 
 const Project = () => {
   return (
     <div>
-      <ProjectFrom></ProjectFrom>
+      <ProjectRoot></ProjectRoot>
     </div>
   );
 };
