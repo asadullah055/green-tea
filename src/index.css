@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #519f10;
+}
+.swiper-pagination-bullet {
+  background-color: #519f10;
+  height: 15px;
+  width: 15px;
+}
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 25px;
+  font-weight: bold;
+}

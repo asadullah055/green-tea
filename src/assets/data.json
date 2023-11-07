@@ -1,0 +1,97 @@
+[
+  {
+    "id": "01",
+    "title": "Green Tea",
+    "rprice": 5.99,
+    "dprice": 4.99,
+    "description": "A soothing and refreshing green tea with antioxidants.",
+    "image": "../../src/assets/img/01.jpg",
+    "sales": "sales",
+    "percent": "-10%"
+  },
+  {
+    "id": "02",
+    "title": "Earl Grey Tea",
+    "rprice": 6.49,
+    "dprice": 5.99,
+    "description": "A classic blend of black tea with a hint of bergamot flavor.",
+    "image": "../../src/assets/img/02.jpg",
+    "percent": "-13%"
+  },
+  {
+    "id": "03",
+    "title": "Chamomile Tea",
+    "rprice": 4.99,
+    "dprice": 3.99,
+    "description": "A caffeine-free herbal tea known for its calming properties.",
+    "image": "../../src/assets/img/03.jpg",
+    "percent": "-10%",
+    "sales": "sales"
+  },
+  {
+    "id": "04",
+    "title": "Oolong Tea",
+    "rprice": 7.99,
+    "dprice": 6.49,
+    "description": "A semi-oxidized tea with a unique flavor profile.",
+    "image": "../../src/assets/img/04.jpg",
+    "percent": "-15%"
+  },
+  {
+    "id": "05",
+    "title": "Peppermint Tea",
+    "rprice": 4.49,
+    "dprice": 3.99,
+    "description": "A refreshing and invigorating herbal tea with natural peppermint flavor.",
+    "image": "../../src/assets/img/05.jpg",
+    "percent": "-18%",
+    "sales": "sales"
+  },
+  {
+    "id": "06",
+    "title": "Hibiscus Tea",
+    "rprice": 5.29,
+    "dprice": 4.79,
+    "description": "A vibrant and tangy herbal tea made from hibiscus flowers.",
+    "image": "../../src/assets/img/06.jpg",
+    "percent": "-20%",
+    "sales": "sales"
+  },
+  {
+    "id": "07",
+    "title": "Darjeeling Tea",
+    "rprice": 8.99,
+    "dprice": 7.49,
+    "description": "A fragrant and delicate black tea from the Darjeeling region of India.",
+    "image": "../../src/assets/img/07.jpg",
+    "sales": "sales",
+    "percent": "-11%"
+  },
+  {
+    "id": "08",
+    "title": "Chai Tea",
+    "rprice": 6.99,
+    "dprice": 5.99,
+    "description": "A spiced black tea with a blend of aromatic spices like cinnamon and cardamom.",
+    "image": "../../src/assets/img/08.jpg",
+    "percent": "-11%"
+  },
+  {
+    "id": "09",
+    "title": "Jasmine Tea",
+    "rprice": 5.79,
+    "dprice": 4.99,
+    "description": "Fragrant green tea infused with jasmine blossoms for a floral aroma.",
+    "image": "../../src/assets/img/09.jpg",
+    "percent": "-17%"
+  },
+  {
+    "id": "10",
+    "title": "Rooibos Tea",
+    "rprice": 6.29,
+    "dprice": 5.49,
+    "description": "A caffeine-free herbal tea with a naturally sweet and nutty flavor.",
+    "image": "../../src/assets/img/05.jpg",
+    "percent": "-15%"
+  }
+]
